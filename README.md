@@ -1,4 +1,4 @@
-# Jekyll-Portfolio (Forked from @inaki)
+# Jekyll-Portfolio
 
 # Installation
 
